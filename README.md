@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tom Hernandez</h1>
 <h3 align="center">A passionate Html Email developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on **Transational**
+- 🔭 I’m currently working on **Transactional, Shopify Website**
 
-- 🌱 I’m currently learning **Html Email, Email Marketing, JavaScript**
+- 🌱 I’m currently learning **Mjml Framework, Email Marketing, JavaScript**
 
 - 👨‍💻 All of my projects are available at [tomhrnndz.dev](https://tomhrnndz.dev)
 
-- 💬 Ask me about **Email Marketing**
+- 💬 Ask me about **Mjml**
 
 - 📫 How to reach me **www.tomhrnndz@gmail.com**
 
