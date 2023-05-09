@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom Hernandez</h1>
 <h3 align="center">A passionate Html Email developer/Content Editor from Los Angeles</h3>
 
-- 🔭 I’m currently working on **Transactional, Shopify Website**
+- 🔭 I’m currently working on **Transactional Emails with Mjml**
 
 - 🌱 I’m currently learning **Mjml Framework, Email Marketing, JavaScript**
 
